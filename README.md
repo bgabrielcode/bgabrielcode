@@ -4,6 +4,7 @@
 
 - 🎓 Software Engineering student.
 - 🤖 Passionate about programming.
+- 🌱 Learning Backend Development with Python, Git and GitHub.
 - 🚀 Currently building projects with Python.
 - 💙 Always learning, creating and improving one commit at a time.
 
